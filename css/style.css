@@ -37,7 +37,7 @@ body{
 	
 }
 .header{
-	background: url("../images/banner.jpg") no-repeat center top;
+	background: url("../images/banner.webp") no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -147,22 +147,23 @@ nav a:focus {
 
 }
 .banner_center h1 {
-	color: #eee;
-	font-family: 'Arvo', serif;
-	text-transform: uppercase;
-	font-size: 2.4em;
+    color: #eee;
+    font-family: 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    font-size: 2.4em;
 }
+
 .banner_center h2 {
-	color: #eee;
-	font-family: 'Arvo', serif;
-	text-transform: uppercase;
-	font-size: 2.4em;
-	padding:7px 0;
+    color: #eee;
+    font-family: 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    font-size: 2.4em;
+    padding: 7px 0;
 }
-.banner_center h2 span
-{
-	color: #ef664d;
-	font-weight: 900;
+
+.banner_center h2 span {
+    color: #ef664d;
+    font-weight: 900;
 }
 .wmuSliderPagination {
 	z-index: 2;
